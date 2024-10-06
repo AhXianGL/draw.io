@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="JeWldXXxksjpVP-zL5Ht">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+          <mxGeometry x="160" y="380" width="560" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="womFPRaeuXH6ECmNfBCx-7" value="工程质量问题盘点" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="397.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-1" value="工程质量问题核验" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="397.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="457" y="155" as="sourcePoint" />
+            <mxPoint x="457" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="457" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.516;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.514;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8GKyTfsWxNbbxCT-tOfK-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459" y="315" as="sourcePoint" />
+            <mxPoint x="457.96000000000004" y="381.9949999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.518;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459" y="477" as="sourcePoint" />
+            <mxPoint x="459.0799999999999" y="538.9949999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-15" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="160" y="540" width="560" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="8GKyTfsWxNbbxCT-tOfK-15" vertex="1">
+          <mxGeometry width="560" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-3" value="地块工程问题矢量数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-15" vertex="1">
+          <mxGeometry x="230" y="17.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-16" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="160" y="705" width="560" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="8GKyTfsWxNbbxCT-tOfK-16" vertex="1">
+          <mxGeometry width="560" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-4" value="发布再核查监管任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-16" vertex="1">
+          <mxGeometry x="120" y="17.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-5" value="地块工程问题图层" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-16" vertex="1">
+          <mxGeometry x="343" y="17.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-17" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="170" y="60" width="560" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="8GKyTfsWxNbbxCT-tOfK-17" vertex="1">
+          <mxGeometry width="560" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="womFPRaeuXH6ECmNfBCx-1" value="农田地块工程质量数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-17" vertex="1">
+          <mxGeometry x="390" y="17.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="womFPRaeuXH6ECmNfBCx-2" value="当前农田地块属性数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-17" vertex="1">
+          <mxGeometry x="220" y="17.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="womFPRaeuXH6ECmNfBCx-3" value="施工前农田地块矢量数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-17" vertex="1">
+          <mxGeometry x="50" y="17.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-18" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="170" y="220" width="560" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="8GKyTfsWxNbbxCT-tOfK-18" vertex="1">
+          <mxGeometry width="560" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="womFPRaeuXH6ECmNfBCx-4" value="目视解译" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-18" vertex="1">
+          <mxGeometry x="100" y="17.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="womFPRaeuXH6ECmNfBCx-5" value="空间分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-18" vertex="1">
+          <mxGeometry x="360" y="17.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.514;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.514;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="457.84000000000015" y="633.9549999999999" as="sourcePoint" />
+            <mxPoint x="457.84000000000015" y="703.0050000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
