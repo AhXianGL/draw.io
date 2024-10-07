@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8GKyTfsWxNbbxCT-tOfK-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="160" y="380" width="560" height="95" as="geometry" />
+          <mxGeometry x="170" y="390" width="560" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="womFPRaeuXH6ECmNfBCx-7" value="林网退化问题盘点" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="397.5" width="120" height="60" as="geometry" />
+        <mxCell id="womFPRaeuXH6ECmNfBCx-7" value="多时相植被NDVI指数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="407.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8GKyTfsWxNbbxCT-tOfK-1" value="农田生态防护情况分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="397.5" width="140" height="60" as="geometry" />
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-1" value="多时相种植利用结构数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="407.5" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8GKyTfsWxNbbxCT-tOfK-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -22,23 +22,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8GKyTfsWxNbbxCT-tOfK-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.516;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.514;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8GKyTfsWxNbbxCT-tOfK-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="459" y="315" as="sourcePoint" />
-            <mxPoint x="457.96000000000004" y="381.9949999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8GKyTfsWxNbbxCT-tOfK-16" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="160" y="551.05" width="560" height="95" as="geometry" />
+          <mxGeometry x="170" y="561.05" width="560" height="95" as="geometry" />
         </mxCell>
         <mxCell id="8GKyTfsWxNbbxCT-tOfK-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="8GKyTfsWxNbbxCT-tOfK-16" vertex="1">
           <mxGeometry width="560" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="8GKyTfsWxNbbxCT-tOfK-4" value="发布再核查监管任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-16" vertex="1">
-          <mxGeometry x="120" y="17.5" width="130" height="60" as="geometry" />
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-4" value="种植结构变化分析统计图表" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-16" vertex="1">
+          <mxGeometry x="100" y="17.5" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8GKyTfsWxNbbxCT-tOfK-5" value="林网退化问题图层" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-16" vertex="1">
-          <mxGeometry x="343" y="17.5" width="120" height="60" as="geometry" />
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-5" value="植被长势分析结果图层" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-16" vertex="1">
+          <mxGeometry x="350" y="17.5" width="143" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8GKyTfsWxNbbxCT-tOfK-17" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="170" y="60" width="560" height="95" as="geometry" />
@@ -46,11 +40,14 @@
         <mxCell id="8GKyTfsWxNbbxCT-tOfK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="8GKyTfsWxNbbxCT-tOfK-17" vertex="1">
           <mxGeometry width="560" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="womFPRaeuXH6ECmNfBCx-2" value="林网监测数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-17" vertex="1">
-          <mxGeometry x="380" y="17.5" width="140" height="60" as="geometry" />
+        <mxCell id="womFPRaeuXH6ECmNfBCx-2" value="多时相无人机可见光遥感影像" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-17" vertex="1">
+          <mxGeometry x="200" y="17.5" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="womFPRaeuXH6ECmNfBCx-3" value="林网设施边界矢量数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-17" vertex="1">
-          <mxGeometry x="60" y="17.5" width="140" height="60" as="geometry" />
+        <mxCell id="womFPRaeuXH6ECmNfBCx-3" value="多时相无人机多光谱遥感影像" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-17" vertex="1">
+          <mxGeometry x="30" y="17.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CJm7m-DwgRcduywlwaV9-1" value="多时相多传感器遥感影像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8GKyTfsWxNbbxCT-tOfK-17">
+          <mxGeometry x="370" y="17.5" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8GKyTfsWxNbbxCT-tOfK-18" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="170" y="220" width="560" height="95" as="geometry" />
@@ -58,16 +55,31 @@
         <mxCell id="8GKyTfsWxNbbxCT-tOfK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="8GKyTfsWxNbbxCT-tOfK-18" vertex="1">
           <mxGeometry width="560" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="womFPRaeuXH6ECmNfBCx-4" value="目视解译" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-18" vertex="1">
-          <mxGeometry x="100" y="17.5" width="120" height="60" as="geometry" />
+        <mxCell id="womFPRaeuXH6ECmNfBCx-4" value="监督分类" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-18" vertex="1">
+          <mxGeometry x="70" y="17.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="womFPRaeuXH6ECmNfBCx-5" value="空间分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-18" vertex="1">
-          <mxGeometry x="360" y="17.5" width="120" height="60" as="geometry" />
+        <mxCell id="womFPRaeuXH6ECmNfBCx-5" value="波段运算" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-18" vertex="1">
+          <mxGeometry x="380" y="17.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8GKyTfsWxNbbxCT-tOfK-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.514;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.514;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="CJm7m-DwgRcduywlwaV9-10" value="非监督分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8GKyTfsWxNbbxCT-tOfK-18">
+          <mxGeometry x="230" y="17.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CJm7m-DwgRcduywlwaV9-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="457.84000000000015" y="480.00499999999994" as="sourcePoint" />
-            <mxPoint x="457.84000000000015" y="549.0550000000001" as="targetPoint" />
+            <mxPoint x="457" y="323" as="sourcePoint" />
+            <mxPoint x="457" y="388" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="457" y="348" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CJm7m-DwgRcduywlwaV9-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="456" y="490" as="sourcePoint" />
+            <mxPoint x="456" y="555" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="456" y="515" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
