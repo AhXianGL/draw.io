@@ -7,11 +7,11 @@
         <mxCell id="8GKyTfsWxNbbxCT-tOfK-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="170" y="270" width="560" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="womFPRaeuXH6ECmNfBCx-7" value="道路宽度分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="womFPRaeuXH6ECmNfBCx-7" value="撂荒地土壤质量分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="282.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="8GKyTfsWxNbbxCT-tOfK-1" value="道路通达性分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="282.5" width="120" height="35" as="geometry" />
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-1" value="撂荒地面积变化分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="282.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="8GKyTfsWxNbbxCT-tOfK-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -34,10 +34,10 @@
         <mxCell id="8GKyTfsWxNbbxCT-tOfK-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="8GKyTfsWxNbbxCT-tOfK-15" vertex="1">
           <mxGeometry width="560" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8GKyTfsWxNbbxCT-tOfK-2" value="道路建设状况报告" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-15" vertex="1">
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-2" value="撂荒地复耕监管数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-15" vertex="1">
           <mxGeometry x="70" y="12.50157894736842" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="8GKyTfsWxNbbxCT-tOfK-3" value="道路疑似问题矢量数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-15" vertex="1">
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-3" value="撂荒地疑似问题矢量数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-15" vertex="1">
           <mxGeometry x="370" y="12.50157894736842" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="8GKyTfsWxNbbxCT-tOfK-16" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -46,10 +46,10 @@
         <mxCell id="8GKyTfsWxNbbxCT-tOfK-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="8GKyTfsWxNbbxCT-tOfK-16" vertex="1">
           <mxGeometry width="560" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8GKyTfsWxNbbxCT-tOfK-4" value="发布道路监管任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-16" vertex="1">
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-4" value="发布复耕监管任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-16" vertex="1">
           <mxGeometry x="70" y="11.052631578947368" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="8GKyTfsWxNbbxCT-tOfK-5" value="田建道路与机耕路" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-16" vertex="1">
+        <mxCell id="8GKyTfsWxNbbxCT-tOfK-5" value="撂荒地空间分布特征" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-16" vertex="1">
           <mxGeometry x="380" y="11.052631578947368" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="8GKyTfsWxNbbxCT-tOfK-17" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -58,13 +58,13 @@
         <mxCell id="8GKyTfsWxNbbxCT-tOfK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="8GKyTfsWxNbbxCT-tOfK-17" vertex="1">
           <mxGeometry width="560" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="womFPRaeuXH6ECmNfBCx-1" value="多时间相遥感影像" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-17" vertex="1">
+        <mxCell id="womFPRaeuXH6ECmNfBCx-1" value="多时相卫星遥感影像" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-17" vertex="1">
           <mxGeometry x="390" y="11.052631578947368" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="womFPRaeuXH6ECmNfBCx-2" value="道路施工设计矢量数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-17" vertex="1">
-          <mxGeometry x="220" y="11.052631578947368" width="140" height="35" as="geometry" />
+        <mxCell id="womFPRaeuXH6ECmNfBCx-2" value="可见光无人机遥感影像" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-17" vertex="1">
+          <mxGeometry x="220" y="11.05" width="150" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="womFPRaeuXH6ECmNfBCx-3" value="多时相实际道路矢量数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-17" vertex="1">
+        <mxCell id="womFPRaeuXH6ECmNfBCx-3" value="多时相撂荒地矢量数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GKyTfsWxNbbxCT-tOfK-17" vertex="1">
           <mxGeometry x="50" y="11.052631578947368" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="8GKyTfsWxNbbxCT-tOfK-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.514;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -80,9 +80,6 @@
           <mxGeometry x="240" y="183.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="womFPRaeuXH6ECmNfBCx-5" value="叠加分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="183.5" width="120" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="womFPRaeuXH6ECmNfBCx-6" value="缓冲区分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="183.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LLe4u8gB-_2cn2rZBEIt-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.514;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -90,6 +87,9 @@
             <mxPoint x="460.00000000000017" y="230" as="sourcePoint" />
             <mxPoint x="460" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NDllTVDG_8uXoWZ1Pg-S-1" value="土壤退化状况分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="282.5" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
